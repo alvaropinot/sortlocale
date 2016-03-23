@@ -16,10 +16,11 @@
   "devDependencies": {
     "babel-cli": "*",
     "babel-preset-es2015-node4": "*",
-    "coveralls": "*",
     "chai": "*",
+    "coveralls": "*",
     "isparta": "*",
     "mocha": "*",
+    "nodemon": "^1.9.1",
     "sinon": "*"
   }
 }
