@@ -1,13 +1,14 @@
-# sortlocale
+[![npm version](https://img.shields.io/npm/v/sortlocale.svg)](https://www.npmjs.com/package/sortlocale)
+![License](https://img.shields.io/npm/l/sortlocale.svg)
 
-![Build Status](https://img.shields.io/travis/alvaropinot/sortlocale.svg)
-![Coverage](https://img.shields.io/coveralls/alvaropinot/sortlocale.svg)
-![Downloads](https://img.shields.io/npm/dm/sortlocale.svg)
-![Downloads](https://img.shields.io/npm/dt/sortlocale.svg)
-![npm version](https://img.shields.io/npm/v/sortlocale.svg)
+[![Build Status](https://img.shields.io/travis/alvaropinot/sortlocale.svg)](https://travis-ci.org/alvaropinot/sortlocale.svg)
+[![Coverage](https://img.shields.io/codeclimate/coverage/github/alvaropinot/sortlocale.svg)](https://codeclimate.com/github/alvaropinot/sortlocale/coverage)
+[![Code Climate](https://img.shields.io/codeclimate/github/alvaropinot/sortlocale.svg)](https://codeclimate.com/github/alvaropinot/sortlocale)
 ![dependencies](https://img.shields.io/david/alvaropinot/sortlocale.svg)
 ![dev dependencies](https://img.shields.io/david/dev/alvaropinot/sortlocale.svg)
-![License](https://img.shields.io/npm/l/sortlocale.svg)
+
+
+# sortlocale
 
 sort strings with special chars
 
