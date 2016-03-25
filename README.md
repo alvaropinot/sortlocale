@@ -26,6 +26,12 @@ And include in your project:
 import sortlocale from 'sortlocale';
 ```
 
+or
+
+```javascript
+const sortlocale = require('sortlocale');
+```
+
 ## License
 
-MIT
+MIT @ [Alvaro Pinot](http://twitter.com/alvaropinot)
